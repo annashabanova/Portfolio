@@ -1,8 +1,9 @@
 Customer segmentation for online shop
 -------------------------------------
 
-[HTML]([Ecom/final-8671d3bf-143f-48e9-b84f-c23639b8d119.html](https://github.com/annashabanova/Portfolio/blob/764f1955d625089849224543bc5ee43b5c838699/Ecom/final-8671d3bf-143f-48e9-b84f-c23639b8d119.html))
+[HTML](https://github.com/annashabanova/Portfolio/blob/e3ca88e935612e19c2c6d6f1876836e9f75d0d3f/Ecom/final-8671d3bf-143f-48e9-b84f-c23639b8d119.html)
 [ipynb](https://github.com/annashabanova/Portfolio/blob/6a437b9252f82ad128869055232f222ce66f5950/Ecom/ecom-engl-pic.ipynb)
+
 **Project description**
 
 perform in depth sales analysis and customer segmentation using RFM-analysis
