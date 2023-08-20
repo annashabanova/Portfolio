@@ -1,8 +1,8 @@
 Customer segmentation for online shop
 -------------------------------------
 
-[HTML](Ecom/final-8671d3bf-143f-48e9-b84f-c23639b8d119.html)
-[ipynb](Ecom/ecom-engl-pic.ipynb)
+[HTML]([Ecom/final-8671d3bf-143f-48e9-b84f-c23639b8d119.html](https://github.com/annashabanova/Portfolio/blob/764f1955d625089849224543bc5ee43b5c838699/Ecom/final-8671d3bf-143f-48e9-b84f-c23639b8d119.html))
+[ipynb]([Ecom/ecom-engl-pic.ipynb](https://github.com/annashabanova/Portfolio/blob/58b1d7c4a0920602111750f2e0a46b55e6adf278/Ecom/ecom-engl-pic.ipynb))
 
 **Project description**
 
