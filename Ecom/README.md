@@ -17,6 +17,7 @@ perform in depth sales analysis and customer segmentation using RFM-analysis
 - Counter
 - scipy
 - A/B-test
+- Tableau
 
 **Conclusion**
 After categorizing the customers into segments, we found that.
