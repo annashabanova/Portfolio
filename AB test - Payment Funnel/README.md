@@ -1,5 +1,6 @@
 # А/B-test - recommender_system_test
 
+[HTML](https://github.com/annashabanova/Portfolio/blob/fcff9445c3128d241ca1cd4b6d52c2678e0d8d52/AB%20test%20-%20Payment%20Funnel/14%20ab%20test%20payment%20funnel.html) [ipynb](https://github.com/annashabanova/Portfolio/blob/fcff9445c3128d241ca1cd4b6d52c2678e0d8d52/AB%20test%20-%20Payment%20Funnel/14%20ab%20test%20payment%20funnel.ipynb)
 
 ## Research objective
 to assess the correctness of the test and analyse its results
