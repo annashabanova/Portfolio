@@ -7,9 +7,9 @@
 Based on data from the use of a mobile app for food sales, analyze the sales funnel, and evaluate the results of A/A/B testing.
 
 ## Skills & Tools
-- Python,
+- Python
 - pandas
-- numpy,
+- numpy
 - scipy
 - matplotlib
 - seabron
@@ -19,6 +19,9 @@ Based on data from the use of a mobile app for food sales, analyze the sales fun
 - event analytics
 - product metrics
 - KPI
-- statistical hypothesis testing,
+- statistical hypothesis testing
+
+## Conclusion
+It can be concluded that the font change did not affect user behaviour or conversion. The test can be completed.
 
 
