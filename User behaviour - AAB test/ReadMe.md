@@ -7,4 +7,18 @@
 Based on data from the use of a mobile app for food sales, analyze the sales funnel, and evaluate the results of A/A/B testing.
 
 ## Skills & Tools
-- 
+- Python,
+- pandas
+- numpy,
+- scipy
+- matplotlib
+- seabron
+- plotly
+- data visualization
+- A/B test
+- event analytics
+- product metrics
+- KPI
+- statistical hypothesis testing,
+
+
