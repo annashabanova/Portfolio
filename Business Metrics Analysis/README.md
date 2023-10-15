@@ -1,7 +1,7 @@
 Business Metrics Ananlysis
 ----
 
-[HTML[(https://github.com/annashabanova/Portfolio/blob/bc7b8d0c232acf871d581e6f25f75683061b2b8f/Business%20Metrics%20Analysis/business%20metrics%20analysis.html)
+[HTML](https://github.com/annashabanova/Portfolio/blob/bc7b8d0c232acf871d581e6f25f75683061b2b8f/Business%20Metrics%20Analysis/business%20metrics%20analysis.html)
 [ipynb](https://github.com/annashabanova/Portfolio/blob/bc7b8d0c232acf871d581e6f25f75683061b2b8f/Business%20Metrics%20Analysis/business%20metrics%20analysis.ipynb)
 
 **Project description**: analyse the results of the marketing campaign for the app and find out why it is making losses.
