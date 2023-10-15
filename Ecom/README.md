@@ -20,7 +20,7 @@ perform in depth sales analysis and customer segmentation using RFM-analysis
 - Tableau
 
 **Conclusion**
-After categorizing the customers into segments, we found that.
+After categorizing the customers into segments, we found that:
 - Champions. There are no top category customers left in the store who place orders regularly and for high amounts.
 - Loyal customers. 25.9% of customers belong to the loyal segment. It is possible to develop strategies to retain them and move some of these customers to the champion segment. For example, you can send them exclusive offers, develop a loyalty reward system.
 - Potential customers. 16.4% of customers. These are customers who have made some number of orders, but have not yet formed a permanent activity. Here it is possible to conduct targeted marketing campaigns, develop special offers
