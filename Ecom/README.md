@@ -1,4 +1,4 @@
-Customer segmentation for online shop
+Customer segmentation for the online shop
 -------------------------------------
 
 [HTML](https://github.com/annashabanova/Portfolio/blob/e3ca88e935612e19c2c6d6f1876836e9f75d0d3f/Ecom/final-8671d3bf-143f-48e9-b84f-c23639b8d119.html)
